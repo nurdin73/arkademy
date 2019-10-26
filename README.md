@@ -1,4 +1,4 @@
-# arkademy
+# NURDIN
 Jawaban Soal bootcamp arkademy
 Software yang digunakan adalah VS code Sebagai text editor dan XAMPP sebagai web servernya
 
